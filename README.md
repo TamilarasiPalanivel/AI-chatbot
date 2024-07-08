@@ -1,7 +1,7 @@
 #AI Chatbot
 
 #Overview
-This is a simple AI Chatbot implented in Pyhton.It responds to user inputs based on predefined responses stored in a JSON file.
+This is a simple AI Chatbot implented in Python.It responds to user inputs based on predefined responses stored in a JSON file.
 
 ##Features
 Responds to greetings and common questions.
